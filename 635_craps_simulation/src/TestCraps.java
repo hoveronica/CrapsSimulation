@@ -1,12 +1,8 @@
 import java.util.ArrayList;
 
-/** first git edit
- * /
- * 
+/*configure system, practicing commit and push
+ * */
 
-/*add another comment*/
-
-/*push another comment*/
 
 
 /**
